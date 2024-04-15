@@ -1,0 +1,20 @@
+¿Que niveles de Prueba hay?
+A)Usabilidad , Accesibilidad y Aceptación  b)Usabilidad , Control y Ejecución  c) No hay ninguna  d)Todas son correctas 
+La A es la correcta.
+
+¿En que consisten las pruebas de usabilidad?
+a)Para poder usar un equipo  b) tratan de comprobar si la interfaz de usuario es fácil de utilizar y entendible por los
+usuarios que acceden a ella  c) No sirven hasta que el proyecto acabe d)Todas son correctas
+La correcta es la B
+
+¿En que consisten las pruebas de aceptación?
+a) En aceptar todos los requisitos  b) Es para un lenguaje de Java.  C) se ubican en las últimas etapas previas a la liberación del software y se centran en
+determinar si este cumple todas las necesidades que hemos incluido en nuestra etapa de captura de requisitos  d) No sirven para nada del proyecto.
+La respuesta correcta es la C
+
+¿Para que sirven las pruebas de seguridad?
+A) es poder proteger al usuario y a nuestro sistema de posibles ataques externos.   b) Dedicadas al dominio de la pagina web.  c)Es una prueba de Brawl Stars d) No existe esta prueba.
+La correcta es la A.
+
+¿Que son las pruebas A/B?
+A)permite desarrollar una metodología en la que tenemos dos componentes que comparar.    b)Son dos opciones una o otra.  c) Son pruebas que solo tratan de hablar entre integrantes del grupo sobre la vida privada  d)No existe esta prueba. 
