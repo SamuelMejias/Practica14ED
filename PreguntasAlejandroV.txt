@@ -1,0 +1,36 @@
+¿1-Cuantos tipos de pruebas basadas en caja existen y cuales son?
+a) 3, Prueba de caja naranja, prueba de caja gris y prueba de caja verde
+b) 2, prueba de caja gris y prueba de caja marrón
+c) 3, prueba de caja negra, prueba de caja blanca y prueba de caja gris
+d) 3, prueba de cajón, prueba de cojín y prueba de cojón.
+
+2-¿En qué consiste el enfoque exploratorio?
+a) Permite definir pruebas de una manera personal, libre y bajo la responsabilidad del diseñador de las pruebas para
+llevar a cabo la validación del sistema.
+b) odríamos decir que los diseñadores de las pruebas
+realizarán estas acorde con la información que tengan del sistema. Esto
+quiere decir que a más información del sistema, las pruebas estarán
+más dirigidas a puntos en concreto.
+c)Este tipo de pruebas se ubican en las últimas etapas previas a la liberación del software y se centran en
+determinar si este cumple todas las necesidades que hemos incluido en nuestra etapa de captura de requisitos
+d)La a y la b son correctas
+
+3-Indica la incorrecta:
+a)Pruebas de caja gris. Este tipo de pruebas surge al tener una combinación de las pruebas de caja blanca y las pruebas de caja marron.
+b)Pruebas de caja gris. Este tipo de pruebas, también conocido como pruebas funcionales, permiten realizar pruebas
+del software sin conocer detalles de implementación. 
+c)Pruebas de caja gris. Este tipo de pruebas permite desarrollar una metodología en la que tenemos dos componentes que comparar.
+d)Todas son correctas.
+
+4-Para poder probar una determinada funcionalidad, lo más
+común es que:
+a)Tengamos detalles del código
+b)Tengamos código del detalle
+c)Seamos detallistas con el código
+d)El código sea correcto
+
+5-¿De quñe trata el tema 14 de entornos de desarrollo?  
+a)Procesos de ejecución de código
+b)Procesos de ejecución de pruebas
+c)Proceso de pruebas de seguridad
+d)Proceso de resolución de código
